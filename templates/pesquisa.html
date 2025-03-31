@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Assistente de pesquisa - Radar</title>
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Select2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <style>
+        .select2-container--default .select2-selection--multiple {
+            min-height: 38px;
+        }
+    </style>
+</head>
+<body class="bg-light px-2 py-3">
+    <div class="container bg-white p-3 rounded shadow-sm" style="max-width: 960px;">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h2 class="fs-4 mb-0">Assistente de pesquisa - Radar</h2>
+            <span class="text-muted small">
+                🔢 Total de pesquisas: <strong>{{ total_pesquisas }}</strong>
+            </span>
+        </div>
+        <form method="POST" target="_blank">
+            <!-- Termo -->
+            <div class="mb-2">
+                <label for="termo" class="form-label fw-semibold">Termo</label>
+                <input type="text" id="termo" name="termo" class="form-control form-control-sm" placeholder="Digite os termos de pesquisa">
+
+                
+            </div>
+
+            <div class="row g-1">
+            <!-- Campos com múltipla escolha (todos do opcoes.py) -->
+            {% for campo, label in {
+                'tiposDocumentos': 'Tipos de Documentos',
+                'tiposJusticas': 'Tipos de Justiças',
+                'naturezas': 'Naturezas',
+                'situacoes': 'Situações',
+                'situacoesJulgamentos': 'Situações de Julgamento',
+                'sistemas': 'Sistemas',
+                'meios': 'Meios',
+                'fases': 'Fases',
+                'competencias': 'Competências',
+                'classes': 'Classes',
+                'assuntos': 'Assuntos',
+                'comarcas': 'Comarcas',
+                'orgaosJulgadores': 'Órgãos Julgadores',
+                'magistrados': 'Magistrados'
+            }.items() %}
+            <div class="col-md-6 mb-2">
+                <label for="{{ campo }}" class="form-label small fw-semibold">{{ label }}</label>
+                <select class="form-select form-select-sm select2" id="{{ campo }}" name="{{ campo }}" multiple>
+                    {% for opcao in opcoes.get(campo, []) %}
+                        <option value="{{ opcao }}">{{ opcao }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            {% endfor %}
+            </div>
+            <div class="d-flex justify-content-end gap-2 mt-3">
+                <button type="submit" class="btn btn-primary">🔎 Pesquisar</button>
+                <button type="reset" class="btn btn-outline-secondary">🗑️ Limpar</button>
+                <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#historico">
+                    📜 Histórico
+                </button>
+            </div>
+            <div class="collapse mt-3" id="historico">
+                <div class="card card-body bg-light border">
+                    <h6 class="mb-3">Últimas pesquisas realizadas</h6>
+            
+                    {% if ultimos %}
+                    <ul class="list-group list-group-flush small">
+                        {% for item in ultimos %}
+                        <li class="list-group-item">
+                            🗓️ {{ item.data }}<br>
+                            🔎 <strong>Termo:</strong> "{{ item.termo }}"<br>
+                        
+                            {% if item.filtros %}
+                            📂 <strong>Filtros:</strong>
+                            {% for campo, valores in item.filtros.items() %}
+                                <span>{{ campo }} = {{ valores }}</span>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                            {% else %}
+                            📂 Nenhum filtro aplicado.
+                            {% endif %}
+                        
+                            <div class="text-end mt-2">
+                                <a href="{{ item.url }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                                    🔁 Repetir pesquisa
+                                </a>
+                            </div>
+                        </li>                        
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                    <p class="text-muted small">Nenhuma pesquisa registrada ainda.</p>
+                    {% endif %}
+                </div>
+            </div>
+                        
+        </form>
+    </div>
+
+        <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Select2 -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $('.select2').select2({
+                tags: true,
+                placeholder: "Selecione",
+                allowClear: true
+            });
+        
+            // Limpa os selects visualmente também
+            $('button[type="reset"]').on('click', function () {
+                $('.select2').val(null).trigger('change');
+            });
+        });
+        </script>
+        
+        
+
+    
+</body>
+</html>

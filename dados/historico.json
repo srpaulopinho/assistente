@@ -1,0 +1,119 @@
+[
+  {
+    "data": "29/03/2025 às 15:15",
+    "termo": "negativação indevida protesto",
+    "filtros": {
+      "tiposDocumentos": [
+        "SENTENÇA"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 15:24",
+    "termo": "busca e apreensão",
+    "filtros": {
+      "tiposDocumentos": [
+        "ACÓRDÃO"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 17:59",
+    "termo": "saneamento básico ação civil pública copasa",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:05",
+    "termo": "saneamento básico copanor indefiro",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:06",
+    "termo": "saneamento básico copanor indefiro \"intime-se\"",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:08",
+    "termo": "alimentos busca e apreensão",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ],
+      "situacoes": [
+        "ATIVO"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:14",
+    "termo": "",
+    "filtros": {
+      "naturezas": [
+        "CÍVEL",
+        "CÍVEL/CRIME",
+        "CRIMINAL"
+      ],
+      "situacoes": [
+        "ATIVO",
+        "BAIXADO"
+      ],
+      "situacoesJulgamentos": [
+        "JULGADOS"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:20",
+    "termo": "alimentos busca e apreensão",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ],
+      "naturezas": [
+        "CÍVEL/CRIME"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 18:28",
+    "termo": "",
+    "filtros": {
+      "tiposDocumentos": [
+        "ALEGAÇÕES"
+      ]
+    }
+  },
+  {
+    "data": "29/03/2025 às 19:50",
+    "termo": "acordo de não persecução penal negado ",
+    "filtros": {
+      "tiposDocumentos": [
+        "DECISÃO"
+      ],
+      "naturezas": [
+        "CRIME"
+      ]
+    }
+  },
+  {
+    "data": "30/03/2025 às 11:11",
+    "termo": "ação civil pública portal da transparência câmara municipal",
+    "filtros": {
+      "tiposDocumentos": [
+        "SENTENÇA"
+      ]
+    }
+  }
+]

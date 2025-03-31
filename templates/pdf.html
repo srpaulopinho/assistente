@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Relator - Extração de PDF</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+</head>
+<body class="bg-light p-4">
+    <div class="container bg-white p-4 rounded shadow-sm" style="max-width: 900px;">
+        <h2 class="mb-3">Extração de Texto de PDF</h2>
+
+        <!-- Upload do PDF -->
+        <form method="POST" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="arquivo" class="form-label">Selecionar arquivo PDF</label>
+                <input type="file" class="form-control" id="arquivo" name="arquivo" accept=".pdf" required>
+            </div>
+            <div class="d-flex justify-content-end gap-2">
+                <button type="submit" class="btn btn-primary">📄 Enviar PDF</button>
+                <button type="reset" class="btn btn-outline-secondary">🗑️ Limpar</button>
+            </div>
+        </form>
+
+        {% if texto %}
+            <h5 class="mt-4">Texto extraído:</h5>
+            <div class="mt-2 text-muted small" id="contador">
+                📝 <strong>0 palavras</strong> | <strong>0 caracteres</strong> | <strong>≈0 tokens</strong>
+            </div> 
+            <div id="editor-container" class="bg-white" style="height: 400px; border: 1px solid #ccc;"></div>
+            <hr class="my-4">
+        {% endif %}
+
+        <!-- Botão para gerar resumo -->
+        <div class="mt-4">
+            <button id="btnResumo" class="btn btn-primary">🧠 Gerar resumo com IA</button>
+        </div>
+
+        <!-- Mensagem de erro -->
+        <div id="erroResumo" class="text-danger mt-2" style="white-space: pre-wrap;"></div>
+
+        <!-- Resumo exibido -->
+        <pre id="campoResumo" class="mt-3 p-2 border rounded bg-light"></pre>
+    </div>
+
+    <!-- Quill -->
+    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script>
+        const quill = new Quill('#editor-container', {
+            theme: 'snow',
+            placeholder: 'O texto extraído será exibido aqui...',
+            modules: {
+                toolbar: [
+                    [{ 'header': [1, 2, 3, false] }],
+                    ['bold', 'italic', 'underline'],
+                    [{ 'color': [] }, { 'background': [] }],
+                    [{ 'align': [] }],
+                    [{ 'indent': '-1'}, { 'indent': '+1' }],
+                    ['clean']
+                ]
+            }
+        });
+
+        // Insere o texto extraído no editor
+        const textoExtraido = `{{ texto | escape | replace('\\n', '\\n') }}`;
+        if (textoExtraido) {
+            quill.setText(textoExtraido);
+        }
+
+        function atualizarContador() {
+            const texto = quill.getText().trim();
+            const palavras = texto.split(/\s+/).filter(Boolean).length;
+            const caracteres = texto.length;
+            const tokensEstimados = Math.round(caracteres / 4);
+
+            document.getElementById('contador').innerHTML =
+                `📝 <strong>${palavras} palavras</strong> | <strong>${caracteres} caracteres</strong> | <strong>≈${tokensEstimados} tokens</strong>`;
+        }
+
+        quill.on('text-change', atualizarContador);
+        atualizarContador();
+
+        // Resumo IA com exibição de erros na tela
+        document.getElementById('btnResumo').addEventListener('click', async function () {
+            const btn = this;
+            const campoResumo = document.getElementById('campoResumo');
+            const erroResumo = document.getElementById('erroResumo');
+
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Gerando resumo...';
+            campoResumo.textContent = '';
+            erroResumo.textContent = '';
+
+            const texto = quill.getText();
+
+            try {
+                const resposta = await fetch('/resumo', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: new URLSearchParams({ texto })
+                });
+
+                const resultado = await resposta.text();
+
+                if (!resposta.ok) {
+                    erroResumo.textContent = resultado;
+                } else {
+                    campoResumo.textContent = resultado;
+                }
+
+            } catch (erro) {
+                erroResumo.textContent = "Erro ao gerar resumo.";
+                console.error(erro);
+            }
+
+            btn.disabled = false;
+            btn.innerHTML = '🧠 Gerar resumo com IA';
+        });
+    </script>
+</body>
+</html>

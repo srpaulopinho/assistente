@@ -1,0 +1,1964 @@
+[
+    {
+        "id": "id-8e89f237fd",
+        "numero": "0016553-42.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-f3199022fb",
+        "numero": "5000259-77.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, auxílio-doença improcedente",
+        "data_envio": "2025-01-30",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-c2ad36ed16",
+        "numero": "5001048-76.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, Aposentadoria Rural, parcial procedência",
+        "data_envio": "2025-02-25",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-094e184406",
+        "numero": "0017108-93.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-3936ed9449",
+        "numero": "0005800-31.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "ISENÇÃO DE CUSTAS",
+        "data_envio": "2025-02-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-6869baaa1b",
+        "numero": "5000130-38.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "tarifa social, parcial procedência",
+        "data_envio": "2025-03-11",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4eefa77dec",
+        "numero": "5000608-80.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Pensão por morte, embargos",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-6f44cf749f",
+        "numero": "5000312-29.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Agravo de instrumento",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-0fa9469ea7",
+        "numero": "5001184-73.2021.8.13.0278",
+        "natureza": "Jesp Cível",
+        "tipo": "",
+        "descricao": "Energia/Multa/Inadimplemento",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-e5d3e9f58f",
+        "numero": "0005927-03.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Pensão por morte, INTIMAR INSS",
+        "data_envio": "2025-02-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-3c89c4d13f",
+        "numero": "0005729-63.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, Honorários periciais controvertidos – MAJORAR ATÉ O LIMITE, SE NÃO ACEITAR, NOMEIA OUTRO",
+        "data_envio": "2025-02-17",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4d7328d7ad",
+        "numero": "5000070-65.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, Isenção controvertida INSS",
+        "data_envio": "2025-01-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-2961df1fc4",
+        "numero": "5000281-67.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Homologa cálculo, Isenção controvertida INSS",
+        "data_envio": "2025-01-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-80d03e72e6",
+        "numero": "5001157-56.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, Nomeia perito",
+        "data_envio": "2025-01-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-51d60800ca",
+        "numero": "5000868-26.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Cump. Sentença, Isenção controvertida INSS",
+        "data_envio": "2025-01-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-391d5e13bc",
+        "numero": "0000286-29.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, Sanção perito, Nomeia perito",
+        "data_envio": "2025-02-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-a97115cde9",
+        "numero": "5000101-22.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, Sanção perito, Nomeia perito",
+        "data_envio": "2025-02-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-aedee89769",
+        "numero": "5000555-65.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Cump. Sentença",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-5761e88816",
+        "numero": "0012735-82.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Nomeia Adv. Outras providências",
+        "data_envio": "2025-01-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-3a950057fe",
+        "numero": "0006647-86.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Embargos",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-b1e4d7129b",
+        "numero": "5000907-57.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-f172ce6ec8",
+        "numero": "",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-6b7ca20f40",
+        "numero": "5000995-95.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Embargos",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-1be2da7da8",
+        "numero": "5000836-84.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "2025-02-04",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-501544f0ac",
+        "numero": "0018575-73.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, consignar laudo, perito Paulo",
+        "data_envio": "2025-02-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-26591d65f3",
+        "numero": "0080252-80.2009.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, intimar autora, advertência, intima pessoalmente via AR",
+        "data_envio": "2025-01-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-89f74cfeee",
+        "numero": "0059150-21.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-51ce5685fa",
+        "numero": "0008022-64.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-1b95e6d471",
+        "numero": "0017960-15.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-8ff61bcac5",
+        "numero": "5001465-58.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Pensão por morte",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-1e172b7b98",
+        "numero": "0024617-75.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-32daf6810e",
+        "numero": "0001598-64.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-9cd4d6a9a4",
+        "numero": "0012257-11.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, autor não compareceu à pericia",
+        "data_envio": "2025-01-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-3967e92202",
+        "numero": "0020188-60.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, autor não compareceu à pericia",
+        "data_envio": "2025-02-01",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-e2f9aab948",
+        "numero": "5000996-46.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Pensão por morte",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-1cb49ae3bd",
+        "numero": "5000324-43.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "2025-02-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-d5df76fb5b",
+        "numero": "5001093-46.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Energia",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-f6317fab54",
+        "numero": "5001197-38.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-14583c9ce7",
+        "numero": "0029115-64.2006.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, atos ordinatórios, virtualização incorreta",
+        "data_envio": "2025-02-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-c2430ae02c",
+        "numero": "0021251-23.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-1d85699b60",
+        "numero": "0000138-18.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-b634eac9d6",
+        "numero": "0029099-13.2006.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, Agravo de instrumento",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-3e94053ac1",
+        "numero": "0002444-86.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, Isenção controvertida INSS",
+        "data_envio": "2025-01-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-cf25f814fe",
+        "numero": "0045085-70.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, cálculos apresentados, INTIMA INSS",
+        "data_envio": "2025-02-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-c6fa4f2794",
+        "numero": "5000617-37.2024.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-479d5c3066",
+        "numero": "5001193-98.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-756bb7b945",
+        "numero": "5000101-51.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, ausência de incapacidade, improcedência",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-5ad8cb6a96",
+        "numero": "5001389-68.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, ESPECIFICAR PROVAS",
+        "data_envio": "2025-02-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-933c523220",
+        "numero": "0005173-85.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-ee7900d071",
+        "numero": "0012224-21.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-a20e5e96ab",
+        "numero": "0003475-44.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-2e03fa355e",
+        "numero": "0074620-10.2008.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, autor falecido",
+        "data_envio": "2025-01-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-ce1ac73941",
+        "numero": "0019529-51.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, autora inerte – EXTINÇÃO",
+        "data_envio": "2025-02-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-0af7473094",
+        "numero": "0058905-10.2017.8.13.0278",
+        "natureza": "Criminal",
+        "tipo": "",
+        "descricao": "Regularizar virtualização",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-d04ac74e66",
+        "numero": "0011827-49.2019.8.13.0278",
+        "natureza": "Criminal",
+        "tipo": "Sentença",
+        "descricao": "Vias de fato",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-7b9e5cbba8",
+        "numero": "0005844-84.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-91b714f46a",
+        "numero": "0021667-25.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-dc0cd6b1cb",
+        "numero": "5000024-42.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "2025-02-07",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-ce0a4d1a5e",
+        "numero": "0003471-36.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário – INTIMAR PERITO RESPONDER QUESITO",
+        "data_envio": "",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-af096f13cb",
+        "numero": "5000047-90.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-aa53738ba9",
+        "numero": "0003828-16.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário – apresentar impugnação e ESPECIFICAR PROVAS",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-0985f11827",
+        "numero": "5000548-73.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-03",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-63be717b43",
+        "numero": "5000133-56.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-03",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4ed07aeea8",
+        "numero": "5000173-72.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – NÃO SUSPENSÃO",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-d7e917e078",
+        "numero": "5000909-56.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO (tem pedido de nulidade, analisar)",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-168813e62d",
+        "numero": "5000913-93.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo - SUSPENSÃO",
+        "data_envio": "2025-02-03",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-1e277c88fd",
+        "numero": "5000879-55.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-04",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-7bb01f3883",
+        "numero": "0001173-91.2005.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-26074229c4",
+        "numero": "5000161-58.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-04",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-44aefe44a7",
+        "numero": "5001012-34.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-04",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-34f7b7aa51",
+        "numero": "5000946-83.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2024-02-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-a8ed2dd051",
+        "numero": "5000908-71.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – INTIMAR IRDR",
+        "data_envio": "2024-02-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-1d5e32864d",
+        "numero": "5001093-46.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – INTIMAR IRDR",
+        "data_envio": "2024-02-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-d7bfc8d792",
+        "numero": "5000764-68.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-8a0103f2ff",
+        "numero": "5000574-37.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-67fa2197c2",
+        "numero": "5001107-64.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "IRDR Tema 93 – Parcelamento de solo – SUSPENSÃO",
+        "data_envio": "2025-02-06",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-41be373b4d",
+        "numero": "5000953-12.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Revisão de contrato, parcial procedência, financiamento veículo",
+        "data_envio": "2025-03-27",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-24cc94c402",
+        "numero": "5000315-76.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Revisional contrato, improcedência, crédito pessoal",
+        "data_envio": "2025-01-30",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-ce8c6ba7d5",
+        "numero": "0008939-98.2005.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Ação de prestar contas, procedência",
+        "data_envio": "2025-01-31",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-c652856088",
+        "numero": "5001195-68.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "2025-02-25",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-b4037f1655",
+        "numero": "5000693-66.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Usucapião, honorários periciais controvertidos",
+        "data_envio": "2025-02-03",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-80ea28c32c",
+        "numero": "0011491-89.2012.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Usucapião extraordinária, procedente",
+        "data_envio": "2025-02-04",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-5dc6785bd3",
+        "numero": "5000314-91.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Revisional contrato, improcedente",
+        "data_envio": "2025-02-05",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-3e93a78af2",
+        "numero": "5000820-67.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Cemig. Cobrança indevida, danos morais, parcial procedente",
+        "data_envio": "2025-02-07",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-543e2e2a7a",
+        "numero": "0005828-33.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-8a381279f2",
+        "numero": "5000933-89.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, contrarrazões ",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-1962a04a5c",
+        "numero": "0026877-28.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-7430998639",
+        "numero": "0047495-04.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Usucapião extraordinária, saneamento",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-123c63e900",
+        "numero": "5000700-24.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Isenção custas da parte, já houve sentença – JUNTAR DOCS",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-b19ee348ad",
+        "numero": "0004246-17.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Usucapião extraordinária, extinção, autor inerte",
+        "data_envio": "2025-02-10",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-dd51e742b1",
+        "numero": "5000402-95.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Usucapião extraordinária",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-38ee4487a3",
+        "numero": "0001182-62.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, perito inerte",
+        "data_envio": "2025-02-21",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-120d6059a3",
+        "numero": "0045176-63.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Cump. Sentença previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-d4d2f8d1e1",
+        "numero": "0017144-09.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-6d7f475f27",
+        "numero": "5000054-82.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, laudo impugnado, intimar perito",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-9824a9b6fe",
+        "numero": "0062006-55.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, esclarecimento perito, intimar partes",
+        "data_envio": "2025-02-10",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-15efa70ed3",
+        "numero": "5005805-41.2018.8.13.0433",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Usucapião extraordinária",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-115df42a5e",
+        "numero": "5001565-13.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, restauração de autos",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-8ef7c74cce",
+        "numero": "0045341-13.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário, autora falecida, intimar sucessores",
+        "data_envio": "2025-02-10",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-1c8863505b",
+        "numero": "5000000-14.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Previdenciário, isenção custas da parte, já houve sentença – INTIMAR para juntar documentos",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-cf31c255fd",
+        "numero": "5001026-81.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-5c267cc614",
+        "numero": "5000893-05.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, isenção custas INSS, arquivar",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-47d0faeb3d",
+        "numero": "5000044-33.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Usucapião extraordinária",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-7353b135ac",
+        "numero": "0017562-34.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Usucapião extraordinária, extinção, autora inerte",
+        "data_envio": "2025-02-10",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-be2962f6d2",
+        "numero": "0000278-52.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, Nomeia perito",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-81c929ab7d",
+        "numero": "0002494-88.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, Nomeia perito",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-f05bb029a3",
+        "numero": "5000693-95.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, ausência de incapacidade, improcedência",
+        "data_envio": "2025-02-10",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-c35c4dfd15",
+        "numero": "0036094-42.2006.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Nomeia novo perito",
+        "data_envio": "2025-02-21",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-5b8c858941",
+        "numero": "5000070-31.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, ausência de incapacidade, improcedência",
+        "data_envio": "2025-02-11",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-43d3948e28",
+        "numero": "0005760-83.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário, ausência de incapacidade, requereu prova testemunhal",
+        "data_envio": "2025-02-11",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-32957317e3",
+        "numero": "5001023-58.2024.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Previdenciário, saneamento",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-398dadbfaf",
+        "numero": "5000207-18.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "BPC, estudo social juntado, intima partes",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-8d71c8f55e",
+        "numero": "0002570-34.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Usucapião extraordinária",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-18f08a719b",
+        "numero": "0083942-20.2009.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-da1a885fe1",
+        "numero": "5000601-20.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Previdenciário",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-8ccd9ed8f4",
+        "numero": "0020669-57.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Vista ao MP",
+        "data_envio": "2025-02-10",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-b127f5da5c",
+        "numero": "0015663-64.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Acidente de trânsito, intima parte juntar req. Administrativo",
+        "data_envio": "2025-02-11",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-44a243f58f",
+        "numero": "5000462-05.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "execução, negativação, defere tutela",
+        "data_envio": "2025-02-12",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-78ef0c5d44",
+        "numero": "5000640-85.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Saneamento, consumidor, indenização",
+        "data_envio": "2025-02-13",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-c664837a2b",
+        "numero": "0007888-90.2021.8.13.0278",
+        "natureza": "Criminal",
+        "tipo": "Sentença",
+        "descricao": "ARQUIVAMENTO MPU",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-dc87f041b1",
+        "numero": "0057528-53.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Homologa laudo, indefere pedido, libera honorário",
+        "data_envio": "2025-02-17",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-3df95cb72e",
+        "numero": "0000182-90.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "ARQUIVAMENTO",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-63cd89a4ec",
+        "numero": "5000421-09.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "extinção, não recolheu custas",
+        "data_envio": "2025-02-17",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-836cc27cdd",
+        "numero": "0003414-18.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "intimar réu, valor remanescente, exigir contas",
+        "data_envio": "2025-02-18",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-b61aa13af6",
+        "numero": "0001544-45.2011.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-42ab76e9fc",
+        "numero": "0051323-08.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Honorários periciais controvertidos",
+        "data_envio": "2025-02-18",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-396f0660c2",
+        "numero": "5000343-49.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Citação, busca endereço",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-13a1aa6629",
+        "numero": "0060174-84.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Acordo entre as partes, homologa e extinção",
+        "data_envio": "2025-02-18",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-6abef084b9",
+        "numero": "5001469-95.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Denunciado à lide",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-22724fa913",
+        "numero": "0011450-83.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Nomeia dativo, intima nos termos do despacho",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-82ca6337b0",
+        "numero": "5000725-37.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Honorários periciais controvertidos",
+        "data_envio": "2025-02-18",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4687673b29",
+        "numero": "0010671-02.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Parte sem condições de arcar com perícia",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-15cf30dd97",
+        "numero": "5000204-29.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "Perícia não realizada",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-3f1027343c",
+        "numero": "5001173-44.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "possível suspensão",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-e48d9c03d9",
+        "numero": "5001044-05.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "SANEAMENTO, TRITEM – esperar",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-98121cca6d",
+        "numero": "0007962-96.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Parcial procedência, barragem irapé, indenização",
+        "data_envio": "2025-01-20",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-7fe0f4c164",
+        "numero": "0010805-87.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "defere prova pericial, retifica classe",
+        "data_envio": "2025-02-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-52676613b2",
+        "numero": "0003224-55.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "possível falta de interesse, intima parte e MP",
+        "data_envio": "2025-03-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-49bcea6aa7",
+        "numero": "0014419-03.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "rejeita preliminar, determina citação, retifica classe",
+        "data_envio": "2025-02-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-8cc5ef6bf1",
+        "numero": "5000020-10.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "DPVAT, improcedente, ausencia invalidez",
+        "data_envio": "2025-02-24",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-e0234ae55d",
+        "numero": "0007970-73.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "cemig, desapropriação, irapé, parcial procedência",
+        "data_envio": "2025-03-27",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-f9cd0f17d2",
+        "numero": "0010958-67.2011.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-2ef1e8dcff",
+        "numero": "0007200-46.2012.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "ato ordinatório, ordem de serviço",
+        "data_envio": "2025-03-07",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-312d268341",
+        "numero": "0018568-42.2018.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "oficiar FNDE, intimar autor e MP",
+        "data_envio": "2025-03-07",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-9a09dcb0f8",
+        "numero": "0017588-32.2017.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "usucapião, citar requerida, preencher checklist",
+        "data_envio": "2025-03-07",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-15c5c1e342",
+        "numero": "0007349-08.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "Intima perito, destitui em caso de inercia",
+        "data_envio": "2025-02-21",
+        "status": "Corrigida"
+    },
+    {
+        "id": "id-16c0b4b5ed",
+        "numero": "0013788-06.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "intimar autor, via AR, para juntar documento ou em caso de falecimento, habilitar herdeiros",
+        "data_envio": "2025-02-26",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-ef287aeae4",
+        "numero": "0004280-02.2012.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "juntar acórdao, após, intimar partes para requererem oq entender por direito",
+        "data_envio": "2025-02-26",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-2a4d3f592f",
+        "numero": "0007461-40.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "citação cônjuge e fazenda estadual",
+        "data_envio": "2025-02-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-caaacb2fa3",
+        "numero": "5000789-47.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "DPVAT, honorários periciais controvertidos",
+        "data_envio": "2025-02-24",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-68ad5ee32f",
+        "numero": "5000820-38.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Pesquisa em sistema, defere",
+        "data_envio": "2025-02-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-17e63ced40",
+        "numero": "5000314-91.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Erro material na sentença, correção de ofício",
+        "data_envio": "2025-02-26",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-96adc0300e",
+        "numero": "0011669-09.2010.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "ato ordinatório, ordem de serviço",
+        "data_envio": "2025-02-26",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-bcd9ba2f8d",
+        "numero": "5000951-42.2022.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-ad96c36365",
+        "numero": "5000464-38.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "execução, suspensão, apensamento",
+        "data_envio": "2025-03-26",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-2c73bf2b8f",
+        "numero": "5000865-37.2023.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-c00dbbea23",
+        "numero": "5000316-61.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-bde4e69b11",
+        "numero": "5001144-57.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Execução, pedido sisbajud teimosinha",
+        "data_envio": "2025-03-10",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-76cbbf56f9",
+        "numero": "5001657-88.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "bolsa verde, improcedente, prescrição",
+        "data_envio": "2025-02-27",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-27c9a58718",
+        "numero": "0027846-87.2006.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Nova conciliação, limita multa",
+        "data_envio": "2025-02-28",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-617c199a62",
+        "numero": "5000207-18.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "homologa acordo",
+        "data_envio": "2025-03-06",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-fe44d81af8",
+        "numero": "5000971-96.2023.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-ccbe8619cf",
+        "numero": "5001633-60.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "revisão de contrato, improcedência",
+        "data_envio": "2025-03-12",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-18e2c396ab",
+        "numero": "5001632-75.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "revisão de contrato, improcedência",
+        "data_envio": "2025-03-12",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-a3eeae69f5",
+        "numero": "5000332-44.2024.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "revisional contrato, improcedente",
+        "data_envio": "2025-03-11",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-16141a6cbe",
+        "numero": "5000903-15.2024.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "indefere prova testemunhal e pericial, juntar lei municipal",
+        "data_envio": "2025-03-10",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-0ee79737d3",
+        "numero": "0009426-53.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "saneamento, defere pericia",
+        "data_envio": "2025-03-10",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-158e40e09f",
+        "numero": "0017999-80.2014.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "saneamento, reintegração de posse",
+        "data_envio": "2025-03-14",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-4eea14e4a8",
+        "numero": "0025221-65.2015.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "rescisão contratual, hotel, complexa",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-30321f49e9",
+        "numero": "5000259-14.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "desapropriação copasa, indenização controvertida",
+        "data_envio": "2025-03-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-97d4865ce8",
+        "numero": "0024070-35.2013.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "execução fiscal, sistema RENAJUD",
+        "data_envio": "2025-03-19",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-27716b438d",
+        "numero": "5001033-10.2021.8.13.0278",
+        "natureza": "",
+        "tipo": "Decisão",
+        "descricao": "Saneamento, irapé",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-9289da5c10",
+        "numero": "5000295-51.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "oi, controvérsia plano, indenização moral e material",
+        "data_envio": "2025-03-13",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-19d0e859a9",
+        "numero": "0001107-62.2015.8.13.0278",
+        "natureza": "",
+        "tipo": "Sentença",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-a0d7f6997f",
+        "numero": "0061296-50.2008.8.13.0278",
+        "natureza": "",
+        "tipo": "Sentença",
+        "descricao": "divisão e demarcação de terras",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-5113ae20a3",
+        "numero": "5000723-72.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "copasa, indenização, tubulação esgoto no quintal",
+        "data_envio": "2025-03-13",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-ef5e865be6",
+        "numero": "5000208-95.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "negativação, multa estado, procedente",
+        "data_envio": "2025-03-18",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-c2b0c36f47",
+        "numero": "0049954-76.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "desapropriação, IEF, indenização",
+        "data_envio": "2025-03-17",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-eeafd7272c",
+        "numero": "0000263-78.2016.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "irregularidade na representação, extinção",
+        "data_envio": "2025-03-14",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-77eb5c1e5a",
+        "numero": "5000461-54.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "declaratória inexistência, parcial procedência, danos morais, rmc",
+        "data_envio": "2025-03-17",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-99e983ba53",
+        "numero": "5000263-17.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "lucros cessantes e danos morais, parcial procedência",
+        "data_envio": "2025-03-28",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-14ac9a8f35",
+        "numero": "0049954-76.2007.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "desapropriação, ief, indenização",
+        "data_envio": "2025-03-17",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4707abce15",
+        "numero": "0016625-34.2011.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Desapropriação, embargos, levantamento depósito",
+        "data_envio": "2025-03-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-83d71e93d9",
+        "numero": "5000509-13.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "cemig, servidão administrativa",
+        "data_envio": "2025-03-19",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-834d3eeaf5",
+        "numero": "5000476-23.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Cemig, servidão saneamento, prova pericial – JÁ TINHA MINUTA DE SILVANO",
+        "data_envio": "",
+        "status": "Não usada"
+    },
+    {
+        "id": "id-837ee84272",
+        "numero": "0004961-16.2005.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "desapropriação, cemig, procedencia",
+        "data_envio": "2025-03-20",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-78ad42c0c8",
+        "numero": "5000258-92.2021.8.13.0278",
+        "natureza": "",
+        "tipo": "Sentença",
+        "descricao": "inexistência de relação juridica",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-a840afe2bc",
+        "numero": "5000403-46.2024.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "saneamento, defere pericia",
+        "data_envio": "2025-03-24",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-f44f599f3b",
+        "numero": "5000194-82.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "inexistência de relação juridica, procedente",
+        "data_envio": "2025-03-24",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-da7299658e",
+        "numero": "5000284-85.2024.8.13.0278",
+        "natureza": "",
+        "tipo": "Decisão",
+        "descricao": "indefere grafotécnica secretaria",
+        "data_envio": "2025-03-26",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-b686bfd20b",
+        "numero": "0021519-14.2015.8.13.0278",
+        "natureza": "",
+        "tipo": "Sentença",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-da9bf1132d",
+        "numero": "5000775-29.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "Multa, clonagem, ilegitimidade, extinção",
+        "data_envio": "2025-03-20",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-42886493b1",
+        "numero": "5000787-82.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "grafotecnico, não depositou, prova preclusa",
+        "data_envio": "2025-03-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-bc14c95434",
+        "numero": "5000088-23.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "inexistência de débito, procedente",
+        "data_envio": "2025-03-26",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-45bf3eda34",
+        "numero": "5000208-66.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Despacho",
+        "descricao": "perito não quis, ato ordinatório",
+        "data_envio": "2025-03-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-4276a2ad21",
+        "numero": "5001293-19.2023.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-fa48b61a44",
+        "numero": "5001634-45.2023.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Sentença",
+        "descricao": "acordo entre as partes, homologação",
+        "data_envio": "2025-03-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-013b2969b8",
+        "numero": "5000204-29.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Perícia não realizada, apresentar nova data",
+        "data_envio": "2025-03-21",
+        "status": "Assinada"
+    },
+    {
+        "id": "id-d7ba916fab",
+        "numero": "0041787-70.2007.8.13.0278",
+        "natureza": "",
+        "tipo": "Decisão",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-ce49928607",
+        "numero": "0026384-95.2006.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "autor falecido não habilitou herdeiro, CONFUSÃO",
+        "data_envio": "",
+        "status": "Em confecção"
+    },
+    {
+        "id": "id-92bf5b6e72",
+        "numero": "5000961-57.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "honorários periciais controvertidos, destitui perito, nova nomeação",
+        "data_envio": "2025-03-25",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-5d3819e5ca",
+        "numero": "5000419-73.2019.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "Saneamento, especificação natureza perícia, advertência extinção",
+        "data_envio": "2025-03-25",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-102e891107",
+        "numero": "5000787-14.2021.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "defere pedido do perito, juntada de documento",
+        "data_envio": "2025-03-25",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-bb313c52a1",
+        "numero": "5000097-48.2022.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "intima parte comprovar depósito",
+        "data_envio": "2025-03-26",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-3d7e32e1ec",
+        "numero": "5000132-37.2024.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-679d4fe13d",
+        "numero": "5000799-23.2024.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-14a4e14edc",
+        "numero": "5000525-59.2024.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-47ac2408d6",
+        "numero": "5000256-54.2023.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-cd0bd034e1",
+        "numero": "5000011-43.2023.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-a71ea915db",
+        "numero": "0006719-30.2005.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-3e58ad7224",
+        "numero": "5000792-02.2022.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-4dceb36d76",
+        "numero": "0008947-75.2005.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-2fd1742743",
+        "numero": "0000328-78.2013.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-48cbba2621",
+        "numero": "0006098-81.2015.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-548bdaa450",
+        "numero": "0011700-53.2015.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-bffcf66d58",
+        "numero": "0021319-70.2016.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    },
+    {
+        "id": "id-f044e9cf4b",
+        "numero": "5000423-76.2020.8.13.0278",
+        "natureza": "Cível",
+        "tipo": "Decisão",
+        "descricao": "saneamento, portal da transparência, cm botumirim",
+        "data_envio": "2025-03-28",
+        "status": "Inserida"
+    },
+    {
+        "id": "id-07f25ea62c",
+        "numero": "5000262-03.2019.8.13.0278",
+        "natureza": "",
+        "tipo": "",
+        "descricao": "",
+        "data_envio": "",
+        "status": ""
+    }
+]
