@@ -100,7 +100,7 @@ def limpar_texto(texto):
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     ##api_key="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",
-    API_KEY = os.environ.get("OPENROUTER_API_KEY")
+    api_key = os.environ.get("OPENROUTER_API_KEY")
 )
 
 with open("prompt_ia.txt", "r", encoding="utf-8") as f:
