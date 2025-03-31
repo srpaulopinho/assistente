@@ -99,7 +99,7 @@ def limpar_texto(texto):
 # ========== INTEGRAÇÃO COM OPENROUTER ==========
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="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",
 )
 
 with open("prompt_ia.txt", "r", encoding="utf-8") as f:
